@@ -1,0 +1,1 @@
+^\s(Возврат|Return)\s+(?'version'\d.\d.\d.\d)\s*;\s*\/\/[ ]*(?'prefix_comment'[А-Яа-я\w]+)[ ](?'dev_name'[А-Яа-я-]+[ ]+[А-Яа-я].[А-Яа-я].)[ ]+(?'date'\d\d.\d\d.\d\d\d\d)[ ](?'task_name'(\w|-)*\S)
